@@ -27,3 +27,11 @@ rake generate
 It will re-build the octopress site.
 
 
+Add the site to a github repository:
+
+```bash
+git remote add origin https://github.com/yongli82/octopress.git
+git push -u origin master
+```
+
+
